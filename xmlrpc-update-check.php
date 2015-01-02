@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: XML-RPC Update Check
-Plugin URI: http://trog.qgl.org/xmlrpcuc
+Plugin URI: http://trog.qgl.org/xmlrpcupcheck
 Description: Provide an XML-RPC mechanism to check for WP site updates
 Version: 0.1
 Author: David Harrison
